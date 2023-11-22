@@ -1,4 +1,4 @@
-##Oooh you can have a readme here? How fun
+# Oooh you can have a readme here? How fun ✨
 
 <!---
 lemoncherryy/lemoncherryy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
